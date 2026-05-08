@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+yearcreated,Year Created,true
 description,Description,
 subject,Subjects,true
 location,Location
@@ -11,5 +11,15 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
+rights,Artist,
 rightsstatement,Rights Statement,,true
+schoolwork,School Work,true
+class,Class Created For,true
+exhibitions,Featured in,true
+substrate,Substrate,true
+process,Process,true
+medium,Medium,true
+size,Size in inches
+themes,Suggested Themes,true
+contentwarning,Content Warning
+filesize, File Size
