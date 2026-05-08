@@ -4,9 +4,6 @@ creator,Creator,
 yearcreated,Year Created,true
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
@@ -22,4 +19,4 @@ medium,Medium,true
 size,Size in inches
 themes,Suggested Themes,true
 contentwarning,Content Warning
-filesize, File Size
+filesize,File Size
