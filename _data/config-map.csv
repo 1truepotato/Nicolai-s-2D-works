@@ -1,5 +1,4 @@
 field,display_name,search
-date,Date,true
+yearcreated,Year Created,true
 creator,Creator,true
 subject,Subjects,true
-location,Location,true
